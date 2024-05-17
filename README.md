@@ -1,4 +1,4 @@
-## Hi🙋🏻‍♂️, I'm Karem!
+## Hi🙋🏻‍♂️, I'm Kareem!
 🕵🏻‍♂️ Beginner Data Analyst, sharing my projects and learnings in data.<br/>
 👨🏻‍🎓 I studied Commerce and Business Administration at the University of Helwan, Egypt.<br/>
 💭 Currently exploring data for projects and learning more about data analytics.<br/>
